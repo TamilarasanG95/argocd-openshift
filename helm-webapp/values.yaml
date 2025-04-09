@@ -6,5 +6,5 @@ configmap:
     CUSTOM_HEADER: 'Welcome to NGINX on ROSA by TAMIL'
 
 image:
-  name: tamil95/tamil
+  name: tamil95/argocdrosa
   tag: latest
